@@ -1,0 +1,35 @@
+$ ./task1 class01_students.csv class01_activity01.csv
+total students = 10
+absent students = 2
+grade mean = 44.00
+grade sd = 30.14
+
+$ ./task1 class01_students.csv class01_activity02.csv
+total students = 10
+absent students = 1
+grade mean = 53.30
+grade sd = 32.55
+
+$ ./task1 class02_students.csv class02_activity01.csv
+total students = 281
+absent students = 21
+grade mean = 47.92
+grade sd = 31.36
+
+$ ./task1 class02_students.csv class02_activity02.csv
+total students = 281
+absent students = 22
+grade mean = 44.43
+grade sd = 30.81
+
+$ ./task1 class03_students.csv class03_activity01.csv
+total students = 300
+absent students = 28
+grade mean = 43.97
+grade sd = 31.98
+
+$ ./task1 class03_students.csv class03_activity02.csv
+total students = 300
+absent students = 31
+grade mean = 44.90
+grade sd = 31.47
